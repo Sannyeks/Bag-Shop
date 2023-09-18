@@ -26,6 +26,7 @@ function App() {
           background: "#fff",
         }}
       >
+        
         <Stack>
           <UIProvider>
             <Appbar />
