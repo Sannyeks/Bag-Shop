@@ -16,6 +16,7 @@ export const Colors = {
   border: "#DDDFE1",
   inverse: "#2F3D4A",
   shaft: "#333",
+
   ///////////////
   // Grays
   ///////////////
@@ -23,6 +24,7 @@ export const Colors = {
   dove_gray: "#d5d5d5",
   body_bg: "#f3f6f9",
   light_gray: "rgb(230,230,230)",
+  
   ///////////////
   // Solid Color
   ///////////////
