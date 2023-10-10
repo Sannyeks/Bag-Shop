@@ -12,7 +12,7 @@ import {
 import CloseIcon from "@mui/icons-material/Close";
 import { Colors } from "../../styles/theme";
 import styled from "@emotion/styled";
-import { Product, ProductImage } from "../../styles/product";
+import { Product, ProductImage } from "../../styles/product/index.js";
 import IncDec from "../ui/index";
 import FacebookIcon from "@mui/icons-material/Facebook";
 import TwitterIcon from "@mui/icons-material/Twitter";

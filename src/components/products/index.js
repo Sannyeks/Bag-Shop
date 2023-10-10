@@ -1,4 +1,4 @@
-import { Container, Grid } from "@mui/material";
+import {Container, Grid } from "@mui/material";
 import { products } from "../../data";
 import SingleProduct from "./SingleProduct";
 import { useTheme } from "@mui/material/styles";

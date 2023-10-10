@@ -14,9 +14,8 @@ import { useEffect } from "react";
 
 function App() {
   useEffect(() => {
-    document.title = "Bags-Shop - Home";
+    document.title = "React Material UI - Home";
   }, []);
-  
   return (
     <ThemeProvider theme={theme}>
       <Container
@@ -26,7 +25,6 @@ function App() {
           background: "#fff",
         }}
       >
-        
         <Stack>
           <UIProvider>
             <Appbar />
